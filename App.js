@@ -13,7 +13,6 @@ import { StyleSheet, Text, View } from "react-native";
 import HomeNavigation from "./src/navigation/HomeNav/HomeNavigation";
 import { NavigationContainer } from "@react-navigation/native";
 
-
 export default function App() {
   return (
     <GluestackUIProvider mode="light">
